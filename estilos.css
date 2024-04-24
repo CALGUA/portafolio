@@ -108,3 +108,20 @@ text-align: justify;
     border: 3px dashed #20bcd5;
     padding: 10px;
 }
+.itemhobbies{
+    width: 125px;
+    border: 3px solid black;
+    margin: 10px 10px;
+    padding: 15px 15px;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+    }
+.itemhobbies:hover{
+background-color: cadetblue;
+}
+.listahobbies{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
